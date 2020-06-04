@@ -8,5 +8,5 @@ Total score (Extended): 478,481
 Contributors
 ------------
 - [Alexander Carlson](https://github.com/acarlson99)
-- [Jose Mauricio Carpio Herrera](https://github.com/allenc12)
-- [Clayton Allen](https://github.com/laughtt)
+- [Clayton Allen](https://github.com/allenc12)
+- [Jose Mauricio Carpio Herrera](https://github.com/laughtt)
